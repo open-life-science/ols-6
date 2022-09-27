@@ -2,7 +2,7 @@
 
 ====
 
-If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols-4/hackmd-guide](https://hackmd.io/@ols-4/hackmd-guide)
+If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols/hackmd-guide](https://hackmd.io/@openlifesci/hackmd-guide)
 
 This is an optional cohort call for folks who are new to GitHub. 
 If you have previously worked with GitHub, you can still attend the call as a helper.
@@ -13,7 +13,7 @@ Please contact the Open Life Science team to let them know your interest in co-f
 ## Before this call
 
 - Please create a GitHub account: [https://github.com](https://github.com)
-- Have a look at the OLS-4 repository for 'project issues': https://github.com/open-life-science/ols-4/issues
+- Have a look at the OLS-5 repository for 'project issues': https://github.com/open-life-science/ols-6/issues
   - Comment of 1-2 project's recent post (vision, open canvas etc.)
 - Create your 'project issue' [as described here](https://www.youtube.com/watch?v=UG5TAIU6IVM)
                                                           
@@ -25,7 +25,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 - Creating a (README) file: Writing in Markdown
 - Managing issues and labels
 - Enabling a small website via GitHub
-- Submit changes (to the OLS-4 repository) via Pull Request (PR)
+- Submit changes (to the OLS-5 repository) via Pull Request (PR)
 - Setting the scene for self-paced learning after this session
   - Demo: Review PR and additional features to look at
 
@@ -83,7 +83,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 ## Pull Request (PR) Exercise: Breakout-1
 
 After the facilitators have demo-ed how to create PR:
-- Visit the GitHub file for this work: https://github.com/open-life-science/ols-4/week-05-notes.md
+- Visit the GitHub file for this work: https://github.com/open-life-science/ols-6/week-05-notes.md
 - Edit the file by adding details next to your name (click on the pencil symbol) 
 - Commit 'on a new branch' -> create your Pull Request
 
