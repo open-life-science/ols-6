@@ -1,10 +1,10 @@
 ---
-name: Issue for project in OLS-4
+name: Issue for project in OLS-6
 about: If you applied as a team, please coordinate with your teammates and have one person create this issue.
 ---
 
 <!---
-  Create one issue for each project in OLS-4. If you applied as a team, please
+  Create one issue for each project in OLS-6. If you applied as a team, please
   coordinate with your teammates and have one person create this issue.
 
   Instructions:
@@ -19,11 +19,11 @@ Mentor:
 <!---
   4. Keep everything below and click 'Submit new issue'  --->
 
-Welcome to OLS-4! This issue will be used to track your project and progress during the program. Please use this checklist over the next few weeks as you start Open Life Science program :tada:.
+Welcome to OLS-6! This issue will be used to track your project and progress during the program. Please use this checklist over the next few weeks as you start Open Life Science program :tada:.
 
 ***
 
-Week 1 (week starting 13 September 2021): Meet your mentor!
+## Week 1: Meet your mentor!
 - [ ] Meet mentor for 30 minutes 
 - [ ] Create an account on [GitHub](https://github.com)
 - [ ] Check if you have access to the HackMD notes set up for your meetings with your mentor
@@ -32,17 +32,19 @@ Week 1 (week starting 13 September 2021): Meet your mentor!
   If you're a group, each teammate should complete this assessment individually. This is here to help you set your own personal goals during the program. No need to share your results, but be ready to share your thoughts with your mentor.
 - [ ] Make sure you know when and how you'll be meeting with your mentor.
 
-Before Week 2 (week starting 20 September 2021): Cohort Call (Welcome to Open Life Science!)
+## Week 2 - Cohort Call (Welcome to Open Life Science!)
+
 - [ ] Attend call or catch up via YouTube
-- [ ] Create an issue on the [OLS-4 GitHub repository](https://github.com/open-life-science/ols-4/issues/new) for your OLS work and share the link to your mentor.
+- [ ] Create an issue on the [OLS-6 GitHub repository](https://github.com/open-life-science/OLS-6/issues/new) for your OLS work and share the link to your mentor.
 - [ ] Draft a brief vision statement using your goals
 
   [This lesson](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) from the Open Leadership Training Series (OLTS) might be helpful
 
 - [ ] Leave a comment on this issue with your draft vision statement & be ready to share this on the call
-- [ ] Check the [Syllabus](https://openlifesci.org/ols-4) for notes and connection info for all the cohort calls.
+- [ ] Check the [Syllabus](https://openlifesci.org/OLS-6) for notes and connection info for all the cohort calls.
 
-Before Week 3 (week starting 27 September 2021): Meet your mentor!
+## Week 3: Meet your mentor!
+
 - [ ] Meet mentor
 - [ ] Look up two other projects and comment on their issues with feedback on their vision statement
 - [ ] Complete this [compare and contrast assignment](https://docs.google.com/document/d/1ukvqDRIYfvCapVMdE5hWP-0MkLNJ9T65X43O7F336Ac/edit?usp=sharing) about current and desired community interactions and value exchanges
@@ -52,11 +54,12 @@ Before Week 3 (week starting 27 September 2021): Meet your mentor!
 - [ ] Comment on your issue with your draft Roadmap
 - [ ] Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1
 
-Before Week 4: Cohort Call (Tooling and roadmapping for Open projects)
+## Week 4: Cohort Call (Tooling and roadmapping for Open projects)
+
 - [ ] Attend call or catch up via YouTube
 - [ ] Look up two other projects and comment on their issues with feedback on their open canvas.
 
-Week 5 and later
+## Week 5 and later
 - [ ] Meet mentor
 - [ ] Create a GitHub repository for your project
 - [ ] Add the link to your repository in your issue
@@ -66,34 +69,34 @@ Week 5 and later
 - [ ] Add a [Code of Conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) to your repository as a file called `CODE_OF_CONDUCT.md`
 - [ ] Invite new contributors to into your work!
 
-This issue is here to help you keep track of work as you start Open Life Science program. Please refer to the [OLS-4 Syllabus](https://openlifesci.org/ols-4) for more detailed weekly notes and assignments past week 4.
+This issue is here to help you keep track of work as you start Open Life Science program. Please refer to the [OLS-6 Syllabus](https://openlifesci.org/OLS-6) for more detailed weekly notes and assignments past week 4.
 
-Week 6 
+## Week 6 
 - [ ] Attend call or catch up via YouTube
 
-Week 7
+## Week 7
 - [ ] Meet mentor
 
-Week 8
+## Week 8
 - [ ] Attend call or catch up via YouTube
 
-Week 9
+## Week 9
 - [ ] Meet mentor
 
-Week 10
+## Week 10
 - [ ] Attend call or catch up via YouTube
 
-Week 11
+## Week 11
 - [ ] Meet mentor
 
-Week 12
+## Week 12
 - [ ] Attend call or catch up via YouTube
 
-Week 13
+## Week 13
 - [ ] Meet mentor
 
-Week 14
+## Week 14
 - [ ] Attend call or catch up via YouTube
 
-Week 15
+## Week 15
 - [ ] Meet mentor
