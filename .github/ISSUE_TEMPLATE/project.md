@@ -41,7 +41,7 @@ Welcome to OLS-6! This issue will be used to track your project and progress dur
   [This lesson](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) from the Open Leadership Training Series (OLTS) might be helpful
 
 - [ ] Leave a comment on this issue with your draft vision statement & be ready to share this on the call
-- [ ] Check the [Syllabus](https://openlifesci.org/OLS-6) for notes and connection info for all the cohort calls.
+- [ ] Check the [Syllabus](https://openlifesci.org/ols-6) for notes and connection info for all the cohort calls.
 
 ## Week 3: Meet your mentor!
 
