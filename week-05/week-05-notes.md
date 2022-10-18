@@ -41,7 +41,7 @@ we will give you a short 1.5 hour GitHub tutorial:
 Number (Don't edit this) / Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...
 * Name 1 / Ismael K.G. / I thought I'd smelled jasmine close to a field the other day, which was a surprise!
 * Name 2 /Yo / I have bird feeders in my garden, and I just LOVE watching flocks of sparrows, or blue tits, great tits, and long-tailed tits
-* Name 3 / Patricia / It's autumn in the Northern hemisphere and I love seeing all the leaves turn into wonderful colours
+* Name 3 / Patricia Herterich / It's autumn in the Northern hemisphere and I love seeing all the leaves turn into wonderful colours
 * Name 4 / Paz / A very very big bird that was eating the dead body of an small animal. I had no idea big falcons like that lived around here 
 * Name 5 / Cassie / 
 * Name 6 / Ran /
