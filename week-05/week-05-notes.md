@@ -47,7 +47,7 @@ Number (Don't edit this) / Name / Icebreaker question: Share something from natu
 * Name 6 / Ran /
 * Name 7 / Nicky / 
 * Name 8 /
-* Name 9 / Aman / 
+* Name 9 / Aman / Cool October breeze finally after a long summer here in Delhi!
 * Name 10 /Dario / 
 * Name 11 /Nina / 
 * Name 12 /Umar Farouk Ahmad / 
