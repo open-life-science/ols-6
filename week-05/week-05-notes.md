@@ -44,7 +44,7 @@ Number (Don't edit this) / Name / Icebreaker question: Share something from natu
 * Name 3 / Patricia / It's autumn in the Northern hemisphere and I love seeing all the leaves turn into wonderful colours
 * Name 4 / Paz / A very very big bird that was eating the dead body of an small animal. I had no idea big falcons like that lived around here 
 * Name 5 / Cassie / 
-* Name 6 / Ran /
+* Name 6 / Ran / The changing colors of trees in autumn
 * Name 7 / Nicky / 
 * Name 8 /
 * Name 9 / Aman / 
