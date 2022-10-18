@@ -43,7 +43,7 @@ Number (Don't edit this) / Name / Icebreaker question: Share something from natu
 * Name 2 /Yo / I have bird feeders in my garden, and I just LOVE watching flocks of sparrows, or blue tits, great tits, and long-tailed tits
 * Name 3 / Patricia / It's autumn in the Northern hemisphere and I love seeing all the leaves turn into wonderful colours
 * Name 4 / Paz / A very very big bird that was eating the dead body of an small animal. I had no idea big falcons like that lived around here 
-* Name 5 / Cassie / 
+* Name 5 / Cassie / I recently saw a tree trunk with moss crowing on it but alongside this were three different types of mushrooms with lots of different textures. It fascinated me. 
 * Name 6 / Ran /
 * Name 7 / Nicky / 
 * Name 8 /
