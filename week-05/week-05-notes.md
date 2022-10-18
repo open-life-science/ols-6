@@ -51,7 +51,7 @@ Number (Don't edit this) / Name / Icebreaker question: Share something from natu
 * Name 10 /Dario / 
 * Name 11 /Nina / 
 * Name 12 /Umar Farouk Ahmad / 
-* Name 13 / Susana RG / 
+* Name 13 / Susana RG / recently saw a red squirrel for the first time and I felt really blessed because they came and said hello :) in squirrel language of course :P
 * Name 14 / Rushda / 
 
 ## 🗣️ Welcome!
