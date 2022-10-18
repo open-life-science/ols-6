@@ -1,4 +1,42 @@
 # Week 05: GitHub for Collaboration
+====
+
+If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols/hackmd-guide](https://hackmd.io/@openlifesci/hackmd-guide)
+
+This is an optional cohort call for folks who are new to GitHub. 
+If you have previously worked with GitHub, you can still attend the call as a helper.
+Please contact the Open Life Science team to let them know your interest in co-facilitating the session.
+
+====
+  
+## Before this call
+
+- Please create a GitHub account: [https://github.com](https://github.com)
+- Have a look at the OLS-5 repository for 'project issues': https://github.com/open-life-science/ols-6/issues
+  - Comment of 1-2 project's recent post (vision, open canvas etc.)
+- Create your 'project issue' [as described here](https://www.youtube.com/watch?v=UG5TAIU6IVM)
+                                                          
+## At this call
+
+we will give you a short 1.5 hour GitHub tutorial:
+
+- Creating a new repository
+- Creating a (README) file: Writing in Markdown
+- Managing issues and labels
+- Enabling a small website via GitHub
+- Submit changes (to the OLS-5 repository) via Pull Request (PR)
+- Setting the scene for self-paced learning after this session
+  - Demo: Review PR and additional features to look at
+
+## Join the call
+
+-   Please note that this call will be recorded
+-   The video will be available on the YouTube channel ([https://www.youtube.com/c/OpenLifeSci)](https://www.youtube.com/c/OpenLifeSci)) in the next days
+-   Turn on your webcam if you don’t mind sharing your face (or off if you do!)
+-   Please edit your Zoom name (click on the three dots on the top right of your video) and add one of the following letters in front of your name.
+  -   **W** for written reflection-based exercise in the main room
+  -   **S** for Spoken Discussion Breakout Room This will help us assign you to the breakout room with the format of your choice 
+  -   If you are ok with both, please choose one for this week so that the hosts can assign you to a breakout room during the cohort call 
 ## Roll call
 Number (Don't edit this) / Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...
 * Name 1 / Ismael K.G. / I thought I'd smelled jasmine close to a field the other day, which was a surprise!
