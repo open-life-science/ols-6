@@ -50,7 +50,7 @@ Number (Don't edit this) / Name / Icebreaker question: Share something from natu
 * Name 9 / Aman / 
 * Name 10 /Dario / 
 * Name 11 /Nina / 
-* Name 12 /Umar Farouk Ahmad / 
+* Name 12 /Farouk / 
 * Name 13 / Susana RG / 
 * Name 14 / Rushda / 
 
