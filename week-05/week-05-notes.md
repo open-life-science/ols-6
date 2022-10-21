@@ -1,18 +1,12 @@
 # Week 05: GitHub for Collaboration
 ====
 
-If you are new to HackMD, please see this short guide: [https://hackmd.io/@ols/hackmd-guide](https://hackmd.io/@openlifesci/hackmd-guide)
-
-This is an optional cohort call for folks who are new to GitHub. 
-If you have previously worked with GitHub, you can still attend the call as a helper.
-Please contact the Open Life Science team to let them know your interest in co-facilitating the session.
-
 ====
   
 ## Before this call
 
 - Please create a GitHub account: [https://github.com](https://github.com)
-- Have a look at the OLS-5 repository for 'project issues': https://github.com/open-life-science/ols-6/issues
+- Have a look at the OLS-6 repository for 'project issues': https://github.com/open-life-science/ols-6/issues
   - Comment of 1-2 project's recent post (vision, open canvas etc.)
 - Create your 'project issue' [as described here](https://www.youtube.com/watch?v=UG5TAIU6IVM)
                                                           
